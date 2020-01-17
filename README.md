@@ -1,19 +1,19 @@
 # NutriDaili real-time food and calories detection
 
 ### Startup Idea Team:
-*Alexander M.
-*Faizaan
-*Waleed
-*Antonio
-*Rohan
+* Alexander M.
+* Faizaan
+* Waleed
+* Antonio
+* Rohan
 
 ### Website created by idea team:
-*nutridaili.github.io
+* nutridaili.github.io
 
-###Development Team(uOttahack):
-*Alexander M.
-*Sam St.
-*Frank
+### Development Team(uOttahack):
+* Alexander M.
+* Sam St.
+* Frank
 
 ### Description:
 The purpose of this project was to build a mobile app that can detect your current meal, calculate and keep track of the calories. This idea arose from finding a better solution to tracking calories more efficiently and conveniently.
