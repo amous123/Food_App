@@ -1,24 +1,30 @@
-Idea Team:
+# NutriDaili real-time food and calories detection
+
+### Startup Idea Team:
 *Alexander M.
 *Faizaan
 *Waleed
 *Antonio
 *Rohan
 
-Website created by idea team:
+### Website created by idea team:
 *nutridaili.github.io
 
-Dev Team(uOttahack):
+###Development Team(uOttahack):
 *Alexander M.
 *Sam St.
 *Frank
 
-Description:
-The original purpose of this project was to create an app that calculates calorie of food in pictures and allows the users to manage their calorie intake. Because our team is composed of beginners in machine learning and app development, we started with the fundamental and created a simple app that recognizes fruits.
+### Description:
+The purpose of this project was to build a mobile app that can detect your current meal, calculate and keep track of the calories. This idea arose from finding a better solution to tracking calories more efficiently and conveniently.
 
-The original idea of this project came from one of our members (Alexander M.) who won 2nd place in an entrepreneurship idea competition. The next step of this project is to be able to calculate calories from pictures after classifying them into specific food.
+### Demo
+![alt text](https://github.com/amous123/Food_App/blob/master/DemoPhoto.jpg)
 
-Process Used:
+#### Process
+The application uses the mobile device's camera to analyze the food and determine which it most closely resembles, if it is >80% certain, it classifies it.
+Using the current food, it provides an estimated calorie count and tracks it in a user interface.
+
 We used TensorFlow to train a learner to recognize images of fruits. The training dataset consisted of roughly 100 images of each fruit (Apple, Banana, Lemon, Peach, and Orange) as well as the background. The fruit images were downloaded from https://github.com/Horea94/Fruit-Images-Dataset.
 
 
