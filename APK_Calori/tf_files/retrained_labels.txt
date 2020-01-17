@@ -1,0 +1,6 @@
+apple
+background
+banana
+lemon
+orange
+peaches

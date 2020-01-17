@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/gradleBuild/intermediates/res/merged/androidTest/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/zakled/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.0.0.aar/c3c813d9a9a4b78f52ae1d407dcdcd8d/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,7,8,9,10,17,19,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,116,178,240,989,1048,1105,1159,1573,1637,1763",
+                        "endLines": "2,3,4,5,7,8,9,16,18,21,24",
+                        "endColumns": "60,61,61,63,58,56,53,12,12,12,12",
+                        "endOffsets": "111,173,235,299,1043,1100,1154,1568,1632,1758,1886"
+                    },
+                    "to": {
+                        "startLines": "91,92,93,94,99,100,101,102,109,111,114",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "4270,4331,4393,4455,10137,10196,10253,10307,10721,10785,10911",
+                        "endLines": "91,92,93,94,99,100,101,108,110,113,116",
+                        "endColumns": "60,61,61,63,58,56,53,12,12,12,12",
+                        "endOffsets": "4326,4388,4450,4514,10191,10248,10302,10716,10780,10906,11034"
+                    }
+                },
+                {
+                    "source": "/Users/zakled/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/3d0875be282039ea18bbcc834407afe5/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,7,8,11,14,15,18,21,22,23,24,28,29,30,31,36,37,38,41,44,45,48,51,54,57,58,61,64,65,70,71,75,76,77,78,79,80,81,82,83,84,85",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,177,310,378,507,633,700,823,948,1015,1080,1145,1285,1351,1417,1484,1694,1763,1829,1954,2080,2147,2273,2400,2525,2652,2717,2843,2966,3031,3239,3306,3445,3510,3575,3637,3699,3761,3820,3880,3941,4002,4061",
+                        "endLines": "2,3,6,7,10,13,14,17,20,21,22,23,27,28,29,30,35,36,37,40,43,44,47,50,53,56,57,60,63,64,69,70,74,75,76,77,78,79,80,81,82,83,84,90",
+                        "endColumns": "51,69,11,67,11,11,66,11,11,66,64,64,11,65,65,66,11,68,65,11,11,66,11,11,11,11,64,11,11,64,11,66,11,64,64,61,61,61,58,59,60,60,58,11",
+                        "endOffsets": "102,172,305,373,502,628,695,818,943,1010,1075,1140,1280,1346,1412,1479,1689,1758,1824,1949,2075,2142,2268,2395,2520,2647,2712,2838,2961,3026,3234,3301,3440,3505,3570,3632,3694,3756,3815,3875,3936,3997,4056,4265"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/gradleBuild/intermediates/res/merged/androidTest/debug/values-v23_values-v23.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/zakled/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.0.0.aar/c3c813d9a9a4b78f52ae1d407dcdcd8d/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    }
+                }
+            ]
+        }
+    ]
+}

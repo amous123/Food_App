@@ -1,0 +1,252 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/gradleBuild/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/values/styles.xml",
+                    "from": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "658",
+                        "endColumns": "95",
+                        "endOffsets": "749"
+                    },
+                    "to": {
+                        "startLines": "134",
+                        "startColumns": "4",
+                        "startOffsets": "12145",
+                        "endColumns": "94",
+                        "endOffsets": "12235"
+                    }
+                },
+                {
+                    "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/values/colors.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "659",
+                        "endColumns": "52",
+                        "endOffsets": "707"
+                    },
+                    "to": {
+                        "startLines": "95",
+                        "startColumns": "4",
+                        "startOffsets": "4519",
+                        "endColumns": "52",
+                        "endOffsets": "4567"
+                    }
+                },
+                {
+                    "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/values/template-dimens.xml",
+                    "from": {
+                        "startLines": "28,24,23,22,21,20,29",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "972,893,849,804,761,719,1042",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "1037,931,888,844,799,756,1105"
+                    },
+                    "to": {
+                        "startLines": "104,105,106,107,108,109,110",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "10545,10615,10658,10702,10747,10790,10832",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "10610,10653,10697,10742,10785,10827,10895"
+                    }
+                },
+                {
+                    "source": "/Users/zakled/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/c0a755b7b6c0ad5d03524cce8711e681/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,7,8,9,10,17,19,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,116,178,240,989,1048,1105,1159,1573,1637,1763",
+                        "endLines": "2,3,4,5,7,8,9,16,18,21,24",
+                        "endColumns": "60,61,61,63,58,56,53,12,12,12,12",
+                        "endOffsets": "111,173,235,299,1043,1100,1154,1568,1632,1758,1886"
+                    },
+                    "to": {
+                        "startLines": "91,92,93,94,101,102,103,119,126,128,131",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "4270,4331,4393,4455,10375,10434,10491,11413,11827,11891,12017",
+                        "endLines": "91,92,93,94,101,102,103,125,127,130,133",
+                        "endColumns": "60,61,61,63,58,56,53,12,12,12,12",
+                        "endOffsets": "4326,4388,4450,4514,10429,10486,10540,11822,11886,12012,12140"
+                    }
+                },
+                {
+                    "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/values/template-styles.xml",
+                    "from": {
+                        "startLines": "24,20,22,27,29,34",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "781,664,726,862,891,1088",
+                        "endLines": "24,20,22,27,32,39",
+                        "endColumns": "51,60,53,27,12,12",
+                        "endOffsets": "828,720,775,885,1082,1361"
+                    },
+                    "to": {
+                        "startLines": "118,135,136,137,138,142",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "11362,12240,12300,12353,12380,12576",
+                        "endLines": "118,135,136,137,141,147",
+                        "endColumns": "50,59,52,26,12,12",
+                        "endOffsets": "11408,12295,12348,12375,12571,12849"
+                    }
+                },
+                {
+                    "source": "/Users/zakled/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/3d0875be282039ea18bbcc834407afe5/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,7,8,11,14,15,18,21,22,23,24,28,29,30,31,36,37,38,41,44,45,48,51,54,57,58,61,64,65,70,71,75,76,77,78,79,80,81,82,83,84,85",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,177,310,378,507,633,700,823,948,1015,1080,1145,1285,1351,1417,1484,1694,1763,1829,1954,2080,2147,2273,2400,2525,2652,2717,2843,2966,3031,3239,3306,3445,3510,3575,3637,3699,3761,3820,3880,3941,4002,4061",
+                        "endLines": "2,3,6,7,10,13,14,17,20,21,22,23,27,28,29,30,35,36,37,40,43,44,47,50,53,56,57,60,63,64,69,70,74,75,76,77,78,79,80,81,82,83,84,90",
+                        "endColumns": "51,69,11,67,11,11,66,11,11,66,64,64,11,65,65,66,11,68,65,11,11,66,11,11,11,11,64,11,11,64,11,66,11,64,64,61,61,61,58,59,60,60,58,11",
+                        "endOffsets": "102,172,305,373,502,628,695,818,943,1010,1075,1140,1280,1346,1412,1479,1689,1758,1824,1949,2075,2142,2268,2395,2520,2647,2712,2838,2961,3026,3234,3301,3440,3505,3570,3632,3694,3756,3815,3875,3936,3997,4056,4265"
+                    }
+                },
+                {
+                    "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/values/base-strings.xml",
+                    "from": {
+                        "startLines": "19,20,21,18",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "713,782,844,660",
+                        "endColumns": "68,61,60,52",
+                        "endOffsets": "777,839,900,708"
+                    },
+                    "to": {
+                        "startLines": "111,112,113,114",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "10900,10969,11031,11092",
+                        "endColumns": "68,61,60,52",
+                        "endOffsets": "10964,11026,11087,11140"
+                    }
+                },
+                {
+                    "source": "/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/res/values/strings.xml",
+                    "from": {
+                        "startLines": "18,16,17",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "792,658,708",
+                        "endColumns": "82,49,83",
+                        "endOffsets": "870,703,787"
+                    },
+                    "to": {
+                        "startLines": "115,116,117",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "11145,11228,11278",
+                        "endColumns": "82,49,83",
+                        "endOffsets": "11223,11273,11357"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/gradleBuild/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/res/values/base-strings.xml",
+                    "from": {
+                        "startLines": "19,20,21,18",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "713,782,844,660",
+                        "endColumns": "68,61,60,52",
+                        "endOffsets": "777,839,900,708"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "650,719,781,842",
+                        "endColumns": "68,61,60,52",
+                        "endOffsets": "714,776,837,890"
+                    }
+                },
+                {
+                    "source": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/res/values/template-styles.xml",
+                    "from": {
+                        "startLines": "24,20,22,27,29,34",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "781,664,726,862,891,1088",
+                        "endLines": "24,20,22,27,32,39",
+                        "endColumns": "51,60,53,27,12,12",
+                        "endOffsets": "828,720,775,885,1082,1361"
+                    },
+                    "to": {
+                        "startLines": "18,20,21,22,23,27",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "1112,1258,1318,1371,1398,1594",
+                        "endLines": "18,20,21,22,26,32",
+                        "endColumns": "50,59,52,26,12,12",
+                        "endOffsets": "1158,1313,1366,1393,1589,1867"
+                    }
+                },
+                {
+                    "source": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/res/values/styles.xml",
+                    "from": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "658",
+                        "endColumns": "95",
+                        "endOffsets": "749"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1163",
+                        "endColumns": "94",
+                        "endOffsets": "1253"
+                    }
+                },
+                {
+                    "source": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/res/values/strings.xml",
+                    "from": {
+                        "startLines": "18,16,17",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "792,658,708",
+                        "endColumns": "82,49,83",
+                        "endOffsets": "870,703,787"
+                    },
+                    "to": {
+                        "startLines": "15,16,17",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "895,978,1028",
+                        "endColumns": "82,49,83",
+                        "endOffsets": "973,1023,1107"
+                    }
+                },
+                {
+                    "source": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/res/values/colors.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "659",
+                        "endColumns": "54",
+                        "endOffsets": "709"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                },
+                {
+                    "source": "/Users/zakled/tensorflow-for-poets-2/android/tfmobile/res/values/template-dimens.xml",
+                    "from": {
+                        "startLines": "28,24,23,22,21,20,29",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "972,893,849,804,761,719,1042",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "1037,931,888,844,799,756,1105"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "295,365,408,452,497,540,582",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "360,403,447,492,535,577,645"
+                    }
+                }
+            ]
+        }
+    ]
+}

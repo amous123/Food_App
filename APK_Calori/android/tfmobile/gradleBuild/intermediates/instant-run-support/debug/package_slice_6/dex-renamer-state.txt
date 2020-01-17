@@ -1,0 +1,4 @@
+#Sun Feb 18 12:58:26 EST 2018
+base.0=/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/gradleBuild/intermediates/transforms/dexMerger/debug/102
+renamed.0=classes.dex
+file.0=/Users/zakled/Desktop/Calorimetry/APK_Calori/android/tfmobile/gradleBuild/intermediates/transforms/dexMerger/debug/102/classes.dex
